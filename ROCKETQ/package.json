@@ -1,7 +1,7 @@
 {
     "name": "rocketq",
     "version": "1.0.0",
-    "description": "Projeot desenvolvido para gerenciar perguntas anonimas de usuarios.",
+    "description": "Projeto desenvolvido para gerenciar perguntas anonimas de usuarios.",
     "main": "src/server.js",
     "scripts": {
         "start": "nodemon ."
